@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Carlos Ezequiel Lassorela</h1>
 <h3 align="center">Soy un backend developer de Argentina</h3>
 
