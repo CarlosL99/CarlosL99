@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Node.js y Express.js**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Node.js / Express.js / JavaScript**
 
-- 📫 How to reach me **carloslassorela@gmail.com**
+- 📫 How to reach me **ezequielcarlos886@gmail.com**
 
-- 📄 Know about my experiences [https://carlosl99.github.io/-/](https://carlosl99.github.io/-/)
+- 📄 Learn about my experiences on my Online CV [https://carlosl99.github.io/-/](https://carlosl99.github.io/-/)
 
 - ⚡ Fun fact **Mi compromiso con el desarrollo backend en JavaScript se extiende más allá de la programación.**
 
