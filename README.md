@@ -1,8 +1,9 @@
-<h1 align="center">Hola 👋, soy Carlos Lassorela un Desarrollador Backend </h1>
+# Hola 👋, soy Carlos Lassorela
+<p align="left">Un desarrollador backend de Argentina, altamente comprometido en el ámbito de la programación y la tecnología.</p>
 
 ## Sobre Mi🚀
 
-<p align="left">Soy una persona altamente competente en la resolución de problemas, con la habilidad de analizar situaciones con calma y encontrar soluciones efectivas. Estoy comprometido a aprender continuamente sobre nuevas tecnologías, lenguajes y herramientas para mejorar proyectos y ejecutar tareas de manera eficiente.</p>
+<p align="left">Me considero una persona altamente competente en la resolución de problemas, con la habilidad de analizar situaciones con calma y encontrar soluciones efectivas. Estoy comprometido a aprender continuamente sobre nuevas tecnologías, lenguajes y herramientas para mejorar proyectos y ejecutar tareas de manera eficiente.</p>
 
 - 🔭 Actualmente, estoy enfocado en el desarrollo de **Aneyeon-PETS**
 
