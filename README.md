@@ -1,9 +1,8 @@
 <h1 align="center">Hola 👋, soy Carlos Ezequiel Lassorela</h1>
 <h2 align="center">Desarrollador Backend de Argentina</h2>
 
-<h3 align="left">Sobre Mi🚀</h2>
+## Sobre Mi🚀
 
-***
 <p align="left">Soy una persona altamente competente en la resolución de problemas, con la habilidad de analizar situaciones con calma y encontrar soluciones efectivas. Estoy comprometido a aprender continuamente sobre nuevas tecnologías, lenguajes y herramientas para mejorar proyectos y ejecutar tareas de manera eficiente.</p>
 
 - 🔭 Actualmente, estoy enfocado en el desarrollo de **Aneyeon-PETS**
