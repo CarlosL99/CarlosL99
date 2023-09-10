@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Carlos Ezequiel Lassorela || Desarrollador Backend de Argentina </h1>
+# Hola 👋, soy Carlos Ezequiel Lassorela || Desarrollador Backend de Argentina
 
 ## Sobre Mi🚀
 
