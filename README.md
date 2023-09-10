@@ -1,4 +1,4 @@
-<h1 aling= "center">Hola 👋, soy Carlos Lassorela</h1> 
+<h1 align= "center">Hola 👋, soy Carlos Lassorela</h1> 
 <p align="left">Un desarrollador backend de Argentina, altamente comprometido en el ámbito de la programación y la tecnología.</p>
 
 ## Sobre Mi🚀
