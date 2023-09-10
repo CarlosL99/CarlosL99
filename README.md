@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Carlos Lassorela un Desarrollador Backend de Argentina </h1>
 
+<br>
+
 ## Sobre Mi🚀
 
 <p align="left">Soy una persona altamente competente en la resolución de problemas, con la habilidad de analizar situaciones con calma y encontrar soluciones efectivas. Estoy comprometido a aprender continuamente sobre nuevas tecnologías, lenguajes y herramientas para mejorar proyectos y ejecutar tareas de manera eficiente.</p>
