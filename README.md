@@ -11,7 +11,7 @@
 
 - 💬 Preguntame sobre **Node.js / Express.js / JavaScript**
 
-- ⚡ Dato Curioso **Mi compromiso con el desarrollo backend en JavaScript se extiende más allá de la programación.**
+- ⚡ Dato Curioso **Domino el arte de JavaScript, Node.js y Express.js, tejiendo líneas de código en el futuro y moldeándolas para el pasado con la magia de Babel. Mi código viaja en el tiempo para brindar experiencias web vanguardistas y sin límites. 💫🚀**
 
 ## Contacto 📫
 
