@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Carlos Ezequiel Lassorela</h1>
-<h2 align="center">Un Backend Developer de Argentina</h3>
+<h2 align="center">Desarrollador Backend de Argentina</h2>
 
 
 <h3 align="left">Sobre Mi🚀</h2>
