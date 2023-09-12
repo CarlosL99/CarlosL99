@@ -15,7 +15,7 @@
 
 ## Contacto 📫
 
-- 📫 Como contactar conmigo **ezequielcarlos886@gmail.com**
+- 📫 Contacta conmigo **ezequielcarlos886@gmail.com**
 
 - 📄 Explora mi CV Online [https://carlosl99.github.io/-/](https://carlosl99.github.io/-/)
 
