@@ -1,6 +1,7 @@
 <h1 align= "center">Hola 👋, soy Carlos Lassorela</h1> 
+<p align="center">Un desarrollador backend de Argentina, altamente comprometido en el ámbito de la programación y la tecnología.</p>
 <img align="center" src="https://i.pinimg.com/564x/4b/5f/74/4b5f746744e9aeea98f430c5afcc50c5.jpg">
-<p align="left">Un desarrollador backend de Argentina, altamente comprometido en el ámbito de la programación y la tecnología.</p>
+
 
 ## Sobre Mi🚀
 
