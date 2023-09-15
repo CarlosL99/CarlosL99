@@ -17,7 +17,9 @@
 
 - 💬 Preguntame sobre **Node.js / Express.js / JavaScript**
 
-- ⚡ Dato Curioso ** Exploro el infinito potencial de JavaScript, Node.js y Express.js, creando experiencias digitales que deslumbran y marcan el camino hacia el futuro. 💡🚀**
+- ⚡ Enfoque en el Desarrollo **Exploro el infinito potencial de JavaScript, Node.js y Express.js, creando experiencias digitales que deslumbran y marcan el camino hacia el futuro. 💡🚀**
+
+- 🔥 Mi lema **Insistir, persistir, resistir y nunca desistir. 💪**
 
 ## Contacto 📫
 
